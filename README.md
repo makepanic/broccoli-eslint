@@ -48,3 +48,10 @@ Type: `String`
 Default: `'eslint/lib/formatters/stylish'`
 
 Path path to a custom formatter (See [eslint/tree/master/lib/formatters](https://github.com/eslint/eslint/tree/master/lib/formatters) for alternatives).
+
+##### haltOnSevereError
+
+Type: `Boolean`
+Default: `true`
+
+Determines if eslint should stop linting after encountering a severe error or continue linting.
