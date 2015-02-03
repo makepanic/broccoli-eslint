@@ -31,8 +31,8 @@
     "eslint": "^0.4.5"
   },
   "devDependencies": {
-    "mocha": "*",
-    "rimraf": "~2.2.6",
+    "mocha": "^2.1.0",
+    "rimraf": "^2.2.8",
     "broccoli": "^0.7.2",
     "broccoli-merge-trees": "^0.1.3"
   }
